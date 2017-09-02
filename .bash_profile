@@ -9,7 +9,7 @@ for file in ~/.{path,bash_prompt,exports,aliases,functions,extra}; do
 done;
 unset file;
 
-alias sshharlowreviews='ssh -i ~/.ssh/id_rsa jonas@35.184.226.2'
+alias sshharlowreviews='ssh -i ~/.ssh/id_rsa joharlow93@35.184.226.2'
 
 # Case-insensitive globbing (used in pathname expansion)
 shopt -s nocaseglob;
